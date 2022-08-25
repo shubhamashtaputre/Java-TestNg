@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-07T08:45:10 IST" name="Default suite" finished-at="2022-06-07T08:45:10 IST" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2022-06-07T08:45:10 IST" name="Default test" finished-at="2022-06-07T08:45:10 IST" duration-ms="77">
+      <class name="com.testNg.codes.DataProviderTest">
+        <test-method signature="printUserName(java.lang.String)[pri:0, instance:com.testNg.codes.DataProviderTest@dd0c991]" started-at="2022-06-07T08:45:10 IST" name="printUserName" data-provider="userName" finished-at="2022-06-07T08:45:10 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shubham]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printUserName -->
+        <test-method signature="printUserName(java.lang.String)[pri:0, instance:com.testNg.codes.DataProviderTest@dd0c991]" started-at="2022-06-07T08:45:10 IST" name="printUserName" data-provider="userName" finished-at="2022-06-07T08:45:10 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashtaputre]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printUserName -->
+      </class> <!-- com.testNg.codes.DataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
